@@ -25,8 +25,7 @@ Currently, I oversee **nationwide security infrastructure upgrades for Amtrak**,
 ### 🛠️ Technical Toolkit  
 - **Project Tools:** MS Project, Primavera, Smartsheet, Power BI  
 - **Design Tools:** AutoCAD, Adobe Suite, SketchUp  
-- **Collaboration:** Microsoft Teams, SharePoint, Jira, Confluence  
-- **AI & Data:** ChatGPT, Gemini, IBM Watson, Midjourney  
+- **Collaboration:** Microsoft Teams, SharePoint, 
 - **Methodologies:** PMI Standards, Agile Frameworks, EVM, Risk-Based Decision-Making  
 
 ---
